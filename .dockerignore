@@ -1,0 +1,7 @@
+node_modules
+.git
+.eleventy.js
+package.json
+package-lock.json
+src
+!_site

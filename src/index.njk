@@ -11,7 +11,7 @@ title: Home
 
   {% if collections.featuredPosts.length > 0 %}
   <section class="featured-posts">
-    <h2>Featured Writing</h2>
+    <h2>Check this out!</h2>
     <div class="post-list">
       {% for post in collections.featuredPosts | limit(3) %}
       <article class="post-item">
@@ -27,7 +27,7 @@ title: Home
   {% endif %}
 
   <section class="recent-posts">
-    <h2>Recent Writing</h2>
+    <h2>Latest</h2>
     <div class="post-list">
       {% for post in collections.posts | limit(5) %}
       <article class="post-item">

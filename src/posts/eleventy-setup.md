@@ -1,6 +1,6 @@
 ---
 title: "Setting Up Eleventy for a Personal Blog"
-date: 2025-09-27
+date: 2025-09-29
 description: "A guide to building a fast, simple blog with Eleventy static site generator."
 tags: ["eleventy", "jamstack", "code"]
 layout: layouts/post.njk
@@ -12,10 +12,10 @@ Eleventy (11ty) has become my go-to tool for building static sites. It's fast, f
 
 After trying various static site generators, I keep coming back to Eleventy because:
 
-- **Zero JavaScript by default** - Your site is just HTML
-- **Flexible templating** - Use Nunjucks, Liquid, Markdown, or whatever you prefer
-- **Fast builds** - Even large sites build in seconds
-- **Data cascade** - Powerful data management system
+- **Zero JavaScript by default**
+- **Flexible templating**
+- **Fast builds** 
+
 
 ## Basic Setup
 

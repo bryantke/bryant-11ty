@@ -1,10 +1,10 @@
 ---
 title: "Hello World: Starting a New Blog"
-date: 2025-09-29
+date: 2025-09-27
 description: "The first post on my new blog, where I share my thoughts on writing and building on the web."
 tags: ["meta", "writing"]
 layout: layouts/post.njk
-featured: false
+featured: true
 ---
 
 Welcome to my new blog. I've been thinking about starting this for a while, and I finally decided to just build it and start writing.

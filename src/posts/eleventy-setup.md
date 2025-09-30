@@ -10,7 +10,7 @@ Eleventy (11ty) has become my go-to tool for building static sites. It's fast, f
 
 ## Why Eleventy?
 
-After trying various static site generators, I keep coming back to Eleventy because:
+After trying various static site generators, I keep coming back to Eleventy for a few reasons:
 
 - **Zero JavaScript by default**
 - **Flexible templating**

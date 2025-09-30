@@ -375,6 +375,34 @@ main {
   margin-bottom: var(--space-xl);
 }
 
+/* Page Content (About, etc.) */
+.page-content {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.page-content h1 {
+  margin-bottom: var(--space-md);
+}
+
+.page-content h2 {
+  margin-top: var(--space-xl);
+  margin-bottom: var(--space-md);
+}
+
+.page-content p,
+.page-content ul {
+  margin-bottom: var(--space-md);
+}
+
+.page-content ul {
+  padding-left: var(--space-lg);
+}
+
+.page-content li {
+  margin-bottom: var(--space-xs);
+}
+
 /* Content pages (About, etc.) */
 main > h1:first-child,
 main > article > h1:first-child {
